@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Osvaldo</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
-- 🔭 I’m currently working on [Vanadía - Indumentaria](https://github.com/gabolope/pr-vanadia)
+- 🔭 I’m currently working on MaquinaIA (training for IA's)
 
-- 🌱 I’m currently learning **ReactJs**
-
-- 🔭 I’m currently working on [Ecommerce in ReactJs](https://github.com/GaspariniOsvaldo/ecommerce-react)
+- 🌱 I’m currently learning Typescript
 
 - 📫 How to reach me **gaspariniosvaldo1@gmail.com**
 
